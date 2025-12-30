@@ -1,6 +1,0 @@
-head bodyi açmadan kapatılmaz
-base tagı
-&nbsp; - Boşluk
-w3school
-zinzinzibidi
-beşiktaş kelimesini sesli harfler 20 punto rengi beyaz/siyah ve altı çizili italik, sessiz harfler 25 punto bold(kalın) rengi siyah/beyaz
